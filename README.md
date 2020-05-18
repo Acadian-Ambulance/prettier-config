@@ -1,6 +1,6 @@
 # `@Acadian-Ambulance/prettier-config`
 
-> My personal [Prettier](https://prettier.io) config.
+> Acadian-Ambulance [Prettier](https://prettier.io) config.
 
 ## Usage
 
